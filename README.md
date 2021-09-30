@@ -4,6 +4,10 @@ Karabük Üniversitesi Kulübü için yapılmış bir sitedir. Front-end Develop
 # Website linki;
 https://huseyingulcicek08.github.io/Unikasativus/index.html
 
+# SON HALİ 
+
+https://unikasativus.com/
+
 
 ### First Part
 
